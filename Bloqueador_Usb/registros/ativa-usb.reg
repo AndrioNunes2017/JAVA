@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[hkey_local_machine\system\currentcontrolset\services\usbstor]
+
+"start"=dword:00000003
