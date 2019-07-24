@@ -25,7 +25,7 @@ public class login extends javax.swing.JFrame {
     }
     
     private void acess(){
-           if(senha.getText().equals("lnx346790")){
+           if(senha.getText().equals("Coloque aqui a senha")){
             bloqueador bl=new bloqueador();
             bl.setVisible(true);
             this.setVisible(false);

@@ -14,7 +14,7 @@ import java.sql.SQLException;
  * @author andrio
  */
 public class ConexaoBanco {
-        private static String URL="jdbc:mysql:///db_agenda";
+    private static String URL="jdbc:mysql:///db_agenda";
     private static String USUARIO="";
     private static String SENHA="";
     
